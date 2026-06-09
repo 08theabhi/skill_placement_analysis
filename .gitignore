@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+ml_models/
+chroma_db/
+logs/
+*.log
+*.pkl
+.DS_Store
+dist/
+build/
